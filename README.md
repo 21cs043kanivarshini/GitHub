@@ -1,5 +1,10 @@
 
-![68747470733a2f2f736369746563686461696c792e636f6d2f696d616765732f444e412d47656e65746963732e676966](https://github.com/21cs043kanivarshini/GitHub/assets/110712935/ff947371-ff16-4d1d-aa67-5c325f7d3a01)
+
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110712935/269152837-ff947371-ff16-4d1d-aa67-5c325f7d3a01.gif" width="800" height="500" >
+</p>
 
 **INSPIRATION**
 
@@ -23,7 +28,9 @@ XGBoost demonstrated its superiority with an accuracy of 75.45%.
 
 
 
-![image](https://github.com/21cs043kanivarshini/GitHub/assets/110712935/9a8cf200-f66d-46c3-a22e-fbef076d73e1)
+<p align="center">
+  <img src="https://github.com/kamesh0407/stock_market_prediction/blob/main/InteloneAPI.jpg" width="400" height="240" >
+</p>
 
 
 
