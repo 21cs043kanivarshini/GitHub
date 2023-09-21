@@ -34,6 +34,9 @@ XGBoost demonstrated its superiority with an accuracy of 75.45%.
 
 Implement DNA codon prediction algorithms using Python.
 Optimize algorithms for parallel execution using Intel OneAPI tools.
+
+</br>
+
 **Intel OneAPI Integration:**
 </br>
 Utilize Intel's OneAPI toolkit to the oneAPI cross-architecture programming model provides developers with tools that aim to improve the productivity and velocity of code development when building cross-architecture applications.
@@ -44,7 +47,7 @@ Utilize Intel's OneAPI toolkit to the oneAPI cross-architecture programming mode
 * Identify performance bottlenecks and fine-tune code for better efficiency.
 
 **Visualization and Reporting:**
-</br?
+</br>
 * Develop visualization tools to present the predicted codons and analysis results.
 * Generate reports summarizing the predictions and performance improvements.
 
