@@ -7,9 +7,9 @@
 </p>
 
 **INSPIRATION**
+</br>
+The coding DNA of a genome describes the proteins of the organism in terms of 64 different codons that map to roughly 20 different amino acids.  We demonstrate that genomic and evolutionary features can be learned using **Machine Learning (ML)** methods and used for identifying phylogeny and DNA-type of genome-wide coding domains. Further analysis allows for the identification of which codons are most influential for phylogenetic prediction.  Sequencing entire genomes is increasingly easy with next-generation sequencing techniques that are gradually becoming inexpensive
 
-
-"Genetic disorders arise due to mutations in the DNA sequence, which can either be acquired or inherited from one's parents. These genetic mutations can potentially result in serious illnesses such as Alzheimer’s, cancer, and Hemochromatosis. Recently, the application of artificial intelligence-based techniques has shown remarkable success in predicting and diagnosing various diseases. The potential of these methods can be harnessed to early detect genetic disorders using genomic data, enabling timely intervention and treatment. This study addresses the multi-label multi-class challenge in genetic disorder prediction by making two significant contributions. First, it introduces a novel approach to feature engineering, combining class probabilities from both Extra Trees (ET) and Random Forest (RF) to create a feature set for model training. Second, it employs the classifier chain method, where multiple classifiers are linked together in a chain, with each classifier using predictions from the previous ones to make the final diagnosis. Given the complexity of multi-label multi-class data, the study evaluates performance using macro accuracy, Hamming loss, and α-evaluation score. The results indicate that Extreme Gradient Boosting (XGB) outperforms other methods, achieving an impressive α-evaluation score of 92% and a macro accuracy score of 84%. XGB's performance surpasses that of state-of-the-art approaches, excelling in both predictive accuracy and computational efficiency."
 
 ![SEO-DNA-Images-Codons-2019-01-09-12-12-20](https://github.com/21cs043kanivarshini/GitHub/assets/110712935/01fc1194-09bc-46c6-8baa-eac854b6caf6)
 
@@ -25,9 +25,6 @@ XGBoost demonstrated its superiority with an accuracy of 75.45%.
 
 
 
-
-
-
 <p align="center">
   <img src="https://github.com/kamesh0407/stock_market_prediction/blob/main/InteloneAPI.jpg" width="400" height="240" >
 </p>
@@ -35,25 +32,57 @@ XGBoost demonstrated its superiority with an accuracy of 75.45%.
 
 
 
+Implement DNA codon prediction algorithms using Python.
+Optimize algorithms for parallel execution using Intel OneAPI tools.
+**Intel OneAPI Integration:**
+</br>
+Utilize Intel's OneAPI toolkit to the oneAPI cross-architecture programming model provides developers with tools that aim to improve the productivity and velocity of code development when building cross-architecture applications.
 
+**Performance Analysis:**
+</br>
+* Benchmark and profile the application to measure speedup and resource utilization.
+* Identify performance bottlenecks and fine-tune code for better efficiency.
 
-✅ Data Understanding: In this project, you would have acquired the skills to preprocess and analyze transportation data. This includes data cleansing, handling missing information, and performing exploratory data analysis to uncover patterns and trends within the data.
+**Visualization and Reporting:**
+</br?
+* Develop visualization tools to present the predicted codons and analysis results.
+* Generate reports summarizing the predictions and performance improvements.
 
-✅ Algorithm Selection: You would have become proficient in selecting appropriate algorithms for transportation-related challenges. For instance, decision trees might be suitable for predicting traffic congestion, while regression models could be used to optimize fuel efficiency.
+**Technologies and Tools:**
+</br>
+* Intel OneAPI Toolkit:* Utilize Intel's OneAPI toolkit to the oneAPI cross-architecture programming model
+* Programming Languages:* Python for algorithm implementation.
+* Data Handling:* Libraries like NumPy and pandas for efficient data handling.
+* Visualization:* Matplotlib or other visualization libraries.
 
-✅ Machine Learning: Throughout this endeavor, you likely learned about various machine learning techniques and how they can be applied to improve transportation systems. This might involve predicting traffic flow, optimizing route planning, or enhancing public transit schedules.
+**Expected Outcomes:**
+</br>
+An efficient DNA codon prediction tool optimized for Intel architectures. Improved performance compared to non-accelerated implementations. Visualization tools and reports for easy interpretation of predictions and performance results.
 
-✅ Data Analysis: Your experience would encompass collecting and analyzing vast datasets related to transportation, possibly including historical data, traffic patterns, and user behavior, to train machine learning models and gain insights into improving transportation efficiency.
+**Benefits:**
+</br>
+Accelerated DNA codon prediction for genomics research and medical applications. Enhanced understanding of parallel programming and optimization with Intel OneAPI. Contribution to bioinformatics and genomics research.
 
-✅ Model Performance Evaluation: You would have gained expertise in assessing and comparing the performance of different models, employing statistical tests or data visualizations. This analytical approach aids in selecting the most effective strategies to enhance transportation systems.
+**Challenges:**
+</br>
+* Learning curve for utilizing Intel OneAPI tools effectively.
+* Managing large DNA sequence datasets efficiently.
+* Ensuring correctness and accuracy of codon prediction algorithms.
 
-✅ Translational Research: Interdisciplinary teams bridge the gap between laboratory discoveries and clinical applications, translating scientific findings into practical treatments and healthcare solutions.
+**Milestones:**
+</br>
+* Data collection and preprocessing.
+* Initial algorithm implementation.
+* Integration with Intel OneAPI toolkit.
+* Performance optimization and profiling.
+* Visualization and reporting.
 
-✅ Data Integration: Researchers collaborate to integrate diverse healthcare datasets, including patient records, clinical trials, and genomic data, to gain a comprehensive understanding of diseases and treatment outcomes.
+![codon](https://github.com/21cs043kanivarshini/Prediction-of-DNA-Codon-/assets/110712935/3eb7acb9-0cd3-4e90-85e0-a3f91a2402b5)
 
-✅ Global Health Initiatives: Collaboration extends globally, with researchers and healthcare providers joining forces to address global health challenges such as pandemics, infectious diseases, and access to healthcare in underserved regions.
+This project description outlines the goals, tools, and expected outcomes of a DNA Codon prediction project using Intel OneAPI. It combines bioinformatics with high-performance computing to improve DNA analysis and genomics research
 
-
-In summary, creating a sustainable transportation solution is a multifaceted project that demands a combination of technical expertise and domain-specific knowledge. It involves understanding and improving transportation systems by harnessing data and machine learning techniques.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110712935/269548414-097b49ca-039a-4296-89e4-31c9e5d75e85.jpg" width="500" height="300" >
+</p>
 
 
